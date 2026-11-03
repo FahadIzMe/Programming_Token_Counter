@@ -3,6 +3,9 @@ This is the project we were assigned during our first semester for the computer 
 
 **The project statement is included as a document**
 
+# Tools
+- C++
+
 # Rules
 
 1. We were not allowed the use of built-in strings or the use of string library.
