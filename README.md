@@ -1,12 +1,16 @@
 # semester_1_programming_project(s)
-This is the project we were assigned during our first semester for the computer programming course. There were actually two projects, and I solved both of them because I wanted extra credit but we were only required to upload the base one.
+- This is the project we were assigned during our first semester for the computer programming course. There were actually two projects, and I solved both of them because I wanted extra credit but we were only required to upload the base one.
+- **The project statement is included as a document**
 
-**The project statement is included as a document**
+## Table of Contents
 
-# Tools
+- [Tools](#tools)
+- [Rules](#rules)
+
+## Tools
 - C++
 
-# Rules
+## Rules
 
 1. We were not allowed the use of built-in strings or the use of string library.
 2. We were not allowed to write any code inside main except the standard structure and function calls.
